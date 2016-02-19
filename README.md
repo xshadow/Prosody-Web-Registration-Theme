@@ -2,4 +2,4 @@
 Prosody Web Registration Theme
 
 ## Screenshots
-![solarized palettes(screenshots/screen1.png?raw=true "Registration Form Simple")
+![alt tag](https://raw.githubusercontent.com/beli3ver/Prosody-Web-Registration-Theme/master/screenshots/screen1.png)

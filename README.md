@@ -3,11 +3,11 @@
 This theme change the Layout of the ugly mod_register_web Plugin from Prosody. It uses Bootstrap for design and layout. All tables removed and replaced by divs.
 
 ## Installation
-Find the mod_register_web Folder.
+Find the mod_register_web directory.
 
     find / -name "*mod_register_web*"
 
-In this folder, there is the folder templates. Backup the input and put theses files directly in it.
+In this directory, there is the directory templates. Backup the input and put theses files directly in it.
 Done!
 
 ## Screenshots

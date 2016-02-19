@@ -11,6 +11,6 @@ In this directory, there is the directory templates. Backup the input and put th
 Done!
 
 ## Screenshots
-![alt tag](https://raw.githubusercontent.com/beli3ver/Prosody-Web-Registration-Theme/master/screenshots/screen1.png)
+![alt tag](https://raw.githubusercontent.com/beli3ver/Prosody-Web-Registration-Theme/master/screenshots/screen.png)
 ![alt tag](https://raw.githubusercontent.com/beli3ver/Prosody-Web-Registration-Theme/master/screenshots/screen2.png)
 

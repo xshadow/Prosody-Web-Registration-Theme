@@ -17,7 +17,7 @@ Then add in the prosody config
 The following lines
 
     -- Register Web Template files 
-    register_web_template = "/etc/prosody/register-templates/Prosody-Web-Registration-Theme
+    register_web_template = "/etc/prosody/register-templates/Prosody-Web-Registration-Theme"
 After a restart from prosody
 
     prosodyctl restart
